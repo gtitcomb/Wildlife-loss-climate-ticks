@@ -1,0 +1,137 @@
+sample,Pathogens,Treatment,Level,Rainfall,Replicate,Species,Coxiella_Burnetti,Infection_CB,Rickettsia_sp,Infection_R,Infection_CB2
+NP1033,Coxiella-like endosymbiont,CONT,1,640,3,PV,Uninfected,0,Uninfected,0,0
+NP1035,"Coxiella-like endosymbiont, Trichobilharzia regenti",CONT,1,640,1,PU,Uninfected,0,Uninfected,0,0
+NP1036,None,CONT,1,640,2,PV,Uninfected,0,Uninfected,0,0
+NP1037,None,CONT,1,640,2,PV,Uninfected,0,Uninfected,0,0
+NP1038,Coxiella-like endosymbiont,CONT,1,640,2,PV,Uninfected,0,Uninfected,0,0
+NP1039,Coxiella-like endosymbiont,CONT,1,640,2,PV,Uninfected,0,Uninfected,0,0
+NP1217,Coxiella-like endosymbiont,LMH,1,640,2,PR,Uninfected,0,Uninfected,0,0
+NP1939,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,1,640,3,PV,Infected,1,Uninfected,0,0
+NP2005,None,CONT,1,640,1,PU,Uninfected,0,Uninfected,0,0
+NP2006,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,1,640,1,PU,Infected,1,Uninfected,0,0
+NP2021,"Coxiella-like endosymbiont, Rickettsia sp.",LMH,1,640,1,PR,Uninfected,0,Infected,1,0
+NP2022,"Coxiella-like endosymbiont, Coxiella burnetii, Rickettsia sp. (spotted fever group)",LMH,1,640,1,PR,Infected,1,Infected,1,0
+NP2024,Coxiella burnetii [Strain CbuK_Q154],LMH,1,640,1,PR,Infected,1,Uninfected,0,1
+NP2114,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,1,640,1,PR,Infected,1,Uninfected,0,0
+NP2119,None,LMH,1,640,1,PV,Uninfected,0,Uninfected,0,0
+NP2260,None,CONT,1,640,3,PV,Uninfected,0,Uninfected,0,0
+NP2726,Coxiella-like endosymbiont,LMH,1,640,2,PU,Uninfected,0,Uninfected,0,0
+NP2729,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,1,640,1,PV,Uninfected,0,Uninfected,0,0
+NP2732,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,1,640,1,PR,Uninfected,0,Uninfected,0,0
+NP2881,None,CONT,1,640,2,PU,Uninfected,0,Uninfected,0,0
+NP2882,Coxiella-like endosymbiont,CONT,1,640,2,PU,Uninfected,0,Uninfected,0,0
+NP2883,None,CONT,1,640,1,PV,Uninfected,0,Uninfected,0,0
+NP2884,None,CONT,1,640,2,PV,Uninfected,0,Uninfected,0,0
+NP2885,"Coxiella burnetii, Angiostrongylus cantonensis",CONT,1,640,1,PV,Infected,1,Uninfected,0,1
+NP1031,Coxiella-like endosymbiont,LMH,2,580,1,PV,Uninfected,0,Uninfected,0,0
+NP1032,Coxiella-like endosymbiont,LMH,2,580,1,PV,Uninfected,0,Uninfected,0,0
+NP1127,Coxiella-like endosymbiont,CONT,2,580,1,PV,Uninfected,0,Uninfected,0,0
+NP1139,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,2,580,1,PR,Infected,1,Uninfected,0,0
+NP1153,"Coxiella-like endosymbiont, Rickettsia sp. (spotted fever group)",CONT,2,580,3,PR,Uninfected,0,Infected,1,0
+NP1166,None,CONT,2,580,3,PV,Uninfected,0,Uninfected,0,0
+NP1169,"Coxiella-like endosymbiont, Rickettsia sp. (spotted fever group)",CONT,2,580,3,PV,Uninfected,0,Infected,1,0
+NP1172,Coxiella-like endosymbiont,CONT,2,580,3,PV,Uninfected,0,Uninfected,0,0
+NP1173,Coxiella burnetii,CONT,2,580,3,PV,Infected,1,Uninfected,0,1
+NP1176,Coxiella-like endosymbiont,CONT,2,580,3,PV,Uninfected,0,Uninfected,0,0
+NP1250,Coxiella-like endosymbiont,LMH,2,580,3,PR,Uninfected,0,Uninfected,0,0
+NP1268,None,LMH,2,580,1,PV,Uninfected,0,Uninfected,0,0
+NP1273,Coxiella-like endosymbiont,LMH,2,580,3,PU,Uninfected,0,Uninfected,0,0
+NP1277,None,LMH,2,580,3,PV,Uninfected,0,Uninfected,0,0
+NP1278,None,LMH,2,580,3,PV,Uninfected,0,Uninfected,0,0
+NP1285,Coxiella burnetii,LMH,2,580,1,PR,Infected,1,Uninfected,0,1
+NP1289,None,LMH,2,580,1,PV,Uninfected,0,Uninfected,0,0
+NP1292,None,LMH,2,580,1,PV,Uninfected,0,Uninfected,0,0
+NP1298,Coxiella-like endosymbiont,LMH,2,580,3,PU,Uninfected,0,Uninfected,0,0
+NP1299,None,LMH,2,580,3,PU,Uninfected,0,Uninfected,0,0
+NP1303,None,LMH,2,580,3,PV,Uninfected,0,Uninfected,0,0
+NP1304,Coxiella-like endosymbiont,LMH,2,580,3,PR,Uninfected,0,Uninfected,0,0
+NP1305,"Coxiella-like endosymbiont, Coxiella sp.",LMH,2,580,3,PV,Uninfected,0,Uninfected,0,0
+NP1312,None,LMH,2,580,3,PU,Uninfected,0,Uninfected,0,0
+NP1541,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,2,580,3,PU,Infected,1,Uninfected,0,0
+NP1556,"Coxiella-like endosymbiont, Coxiella burnetii, Rickettsia sp.",LMH,2,580,1,PV,Infected,1,Infected,1,0
+NP1565,Coxiella burnetii,CONT,2,580,3,PU,Infected,1,Uninfected,0,1
+NP1965,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,2,580,1,PV,Infected,1,Uninfected,0,0
+NP1965-1,None,LMH,2,580,1,PV,Uninfected,0,Uninfected,0,0
+NP1968,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,2,580,1,PV,Infected,1,Uninfected,0,0
+NP1968-1,Coxiella burnetii,LMH,2,580,1,PV,Infected,1,Uninfected,0,1
+NP1975r2,"Coxiella-like endosymbiont, Coxiella burnetii, Angiostrongylus cantonensis",LMH,2,580,1,PV,Infected,1,Uninfected,0,0
+NP1986-1,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,2,580,1,PV,Infected,1,Uninfected,0,0
+NP1986r2,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,2,580,1,PV,Infected,1,Uninfected,0,0
+NP2118,None,LMH,2,580,3,PV,Uninfected,0,Uninfected,0,0
+NP2304-1,Coxiella-like endosymbiont,LMH,2,580,2,PR,Uninfected,0,Uninfected,0,0
+NP2454,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,2,580,3,PV,Infected,1,Uninfected,0,0
+NP2456,Coxiella-like endosymbiont,LMH,2,580,3,PU,Uninfected,0,Uninfected,0,0
+NP2462,None,LMH,2,580,2,PR,Uninfected,0,Uninfected,0,0
+NP2463,Coxiella-like endosymbiont,LMH,2,580,2,PV,Uninfected,0,Uninfected,0,0
+NP2467,"Coxiella-like endosymbiont, Rickettsia sp. (spotted fever group)",LMH,2,580,3,PR,Uninfected,0,Infected,1,0
+NP2475,Coxiella burnetii,LMH,2,580,3,PV,Infected,1,Uninfected,0,1
+NP2481,"Coxiella-like endosymbiont, Coxiella burnetii, Trichobilharzia regenti",LMH,2,580,3,PR,Infected,1,Uninfected,0,0
+NP2484,Coxiella burnetii,LMH,2,580,3,PR,Infected,1,Uninfected,0,1
+NP2495,Coxiella burnetii,LMH,2,580,2,PU,Infected,1,Uninfected,0,1
+NP2500,None,LMH,2,580,3,PR,Uninfected,0,Uninfected,0,0
+NP2506,Coxiella-like endosymbiont,LMH,2,580,2,PV,Uninfected,0,Uninfected,0,0
+NP2506-2,"Coxiella-like endosymbiont, Coxiella burnetii, Rickettsia sp., Angiostrongylus cantonensis",LMH,2,580,2,PV,Infected,1,Infected,1,0
+NP2508,Coxiella burnetii,LMH,2,580,2,PV,Infected,1,Uninfected,0,1
+NP2512,Coxiella burnetii,LMH,2,580,3,PV,Infected,1,Uninfected,0,1
+NP2514,Coxiella burnetii,LMH,2,580,3,PR,Infected,1,Uninfected,0,1
+NP2733,"Coxiella burnetii [Strains CbuK_Q154, RSA 331]",LMH,2,580,2,PV,Infected,1,Uninfected,0,1
+NP2734,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,2,580,2,PR,Infected,1,Uninfected,0,0
+NP2737,None,LMH,2,580,2,PV,Uninfected,0,Uninfected,0,0
+NP2740,None,LMH,2,580,2,PV,Uninfected,0,Uninfected,0,0
+NP2743,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,2,580,1,PR,Infected,1,Uninfected,0,0
+NP2889,Coxiella burnetii,LMH,2,580,1,PV,Infected,1,Uninfected,0,1
+NP2890,Coxiella-like endosymbiont,LMH,2,580,1,PV,Uninfected,0,Uninfected,0,0
+NP1177,None,LMH,3,450,3,PV,Uninfected,0,Uninfected,0,0
+NP1184,Coxiella-like endosymbiont,CONT,3,450,1,PV,Uninfected,0,Uninfected,0,0
+NP1234,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,3,450,1,PR,Infected,1,Uninfected,0,0
+NP1239,None,LMH,3,450,1,PR,Uninfected,0,Uninfected,0,0
+NP1315,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,3,450,1,PV,Infected,1,Uninfected,0,0
+NP1321,Coxiella burnetii,LMH,3,450,1,PV,Infected,1,Uninfected,0,1
+NP1537,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,3,450,1,PR,Infected,1,Uninfected,0,0
+NP1538,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,3,450,1,PU,Infected,1,Uninfected,0,0
+NP1542,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,3,450,1,PU,Infected,1,Uninfected,0,0
+NP1544,None,CONT,3,450,1,PV,Uninfected,0,Uninfected,0,0
+NP1551,None,CONT,3,450,1,PU,Uninfected,0,Uninfected,0,0
+NP1553,None,CONT,3,450,1,PU,Uninfected,0,Uninfected,0,0
+NP1557,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,3,450,1,PU,Infected,1,Uninfected,0,0
+NP1822,"Coxiella burnetii [Strains CbuG_Q212, CbuK_Q154, RSA 331]",LMH,3,450,2,PR,Infected,1,Uninfected,0,1
+NP1997,None,LMH,3,450,3,PU,Uninfected,0,Uninfected,0,0
+NP1998,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,3,450,3,PU,Infected,1,Uninfected,0,0
+NP2032,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,3,450,3,PV,Infected,1,Uninfected,0,0
+NP2034,Coxiella-like endosymbiont,LMH,3,450,3,PR,Uninfected,0,Uninfected,0,0
+NP2038,Coxiella-like endosymbiont,LMH,3,450,3,PV,Uninfected,0,Uninfected,0,0
+NP2056,None,LMH,3,450,3,PV,Uninfected,0,Uninfected,0,0
+NP2325,None,LMH,3,450,1,PR,Uninfected,0,Uninfected,0,0
+NP2325-1,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,3,450,1,PR,Infected,1,Uninfected,0,0
+NP2325-2,"Coxiella burnetii [Strains CbuG_Q212, CbuK_Q154, RSA 331]",LMH,3,450,1,PR,Infected,1,Uninfected,0,1
+NP2441,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,3,450,2,PV,Infected,1,Uninfected,0,0
+NP2556,Coxiella-like endosymbiont,LMH,3,450,2,PR,Uninfected,0,Uninfected,0,0
+NP2744,Coxiella-like endosymbiont,LMH,3,450,3,PU,Uninfected,0,Uninfected,0,0
+NP2746,Coxiella burnetii,CONT,3,450,3,PR,Infected,1,Uninfected,0,1
+NP2747,"Coxiella-like endosymbiont, Coxiella burnetii [Strains CbuG_Q212, CbuK_Q154, RSA 331]",LMH,3,450,3,PR,Infected,1,Uninfected,0,0
+NP2748,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,3,450,3,PU,Infected,1,Uninfected,0,0
+NP2749,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,3,450,3,PU,Infected,1,Uninfected,0,0
+NP2750,Coxiella-like endosymbiont,LMH,3,450,3,PU,Uninfected,0,Uninfected,0,0
+NP2751,None,LMH,3,450,3,PU,Uninfected,0,Uninfected,0,0
+NP2752,None,CONT,3,450,3,PU,Uninfected,0,Uninfected,0,0
+NP2753,"Coxiella-like endosymbiont, Coxiella burnetii",LMH,3,450,3,PR,Infected,1,Uninfected,0,0
+NP2754,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,3,450,3,PU,Infected,1,Uninfected,0,0
+NP2755,"Coxiella-like endosymbiont, Coxiella burnetii [Strains CbuK_Q154, RSA 331]",LMH,3,450,3,PV,Infected,1,Uninfected,0,0
+NP2757,"Coxiella-like endosymbiont, Coxiella burnetii",CONT,3,450,3,PV,Infected,1,Uninfected,0,0
+NP2758,"Coxiella-like endosymbiont, Coxiella sp.",LMH,3,450,3,PV,Uninfected,0,Uninfected,0,0
+NP2760,None,CONT,3,450,3,PV,Uninfected,0,Uninfected,0,0
+NP2761,Coxiella-like endosymbiont,CONT,3,450,3,PV,Uninfected,0,Uninfected,0,0
+NP2767,Coxiella-like endosymbiont,CONT,3,450,3,PU,Uninfected,0,Uninfected,0,0
+NP2769,None,CONT,3,450,3,PV,Uninfected,0,Uninfected,0,0
+NP2770,Coxiella burnetii,CONT,3,450,3,PV,Infected,1,Uninfected,0,1
+NP2771,Coxiella-like endosymbiont,CONT,3,450,3,PV,Uninfected,0,Uninfected,0,0
+NP2866,None,LMH,3,450,3,PR,Uninfected,0,Uninfected,0,0
+NP2869,Coxiella-like endosymbiont,LMH,3,450,3,PU,Uninfected,0,Uninfected,0,0
+NP2875,Coxiella-like endosymbiont,CONT,3,450,1,PV,Uninfected,0,Uninfected,0,0
+NP2877,Coxiella-like endosymbiont,CONT,3,450,1,PV,Uninfected,0,Uninfected,0,0
+NP2878,"Coxiella-like endosymbiont, Ehrlichia",CONT,3,450,1,PV,Uninfected,0,Uninfected,0,0
+NP2879,"Coxiella burnetii, Enterobacter cloacae",CONT,3,450,1,PV,Infected,1,Uninfected,0,1
+NP2880,None,CONT,3,450,1,PV,Uninfected,0,Uninfected,0,0
+NP2899,None,LMH,3,450,1,PV,Uninfected,0,Uninfected,0,0
+NP2900,Coxiella-like endosymbiont,LMH,3,450,1,PR,Uninfected,0,Uninfected,0,0
+NP2905,Coxiella-like endosymbiont,LMH,3,450,1,PV,Uninfected,0,Uninfected,0,0
